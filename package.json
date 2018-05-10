@@ -1,16 +1,16 @@
 {
-	"name": "sindresorhus",
-	"version": "2.0.1",
-	"description": "The Sindre Sorhus CLI",
+	"name": "adamyonk",
+	"version": "1.0.0",
+	"description": "adamyonk CLI",
 	"license": "MIT",
-	"repository": "sindresorhus/sindresorhus",
+	"repository": "adamyonk/adamyonk",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Adam Jahnke",
+		"email": "adamyonk@icloud.com",
+		"url": "adamyonk.com"
 	},
 	"bin": {
-		"sindresorhus": "source/cli.js"
+		"adamyonk": "source/cli.js"
 	},
 	"engines": {
 		"node": ">=8"
@@ -24,8 +24,9 @@
 	"keywords": [
 		"cli-app",
 		"cli",
-		"sindresorhus",
-		"unicorns"
+		"adamyonk",
+		"coffee",
+		"motorcycle"
 	],
 	"dependencies": {
 		"import-jsx": "^1.3.0",
